@@ -1,4 +1,4 @@
-Este código implementa um sistema de monitoramento de ECG (eletrocardiograma) usando uma ESP32. Ele usa a biblioteca WiFi para conexão sem fio, a biblioteca WebServer para criar uma interface web, a biblioteca arduinoFFT para realizar a Transformada Rápida de Fourier (FFT), e a biblioteca SD para ler dados de um cartão SD.
+Este código implementa um sistema de monitoramento de ECG (eletrocardiograma) usando uma ESP32. Ele usa a biblioteca WiFi para conexão sem fio, a biblioteca WebServer para criar uma interface web, a biblioteca arduinoFFT para realizar a Transformada Rápida de Fourier (FFT), e a biblioteca SD para ler dados de um cartão SD, e dá a opção de disponibilidade de visualizar os dados por laplace, e visualizar o espaço de estados pelo servidor web(dashboard).
 
 ---
 
